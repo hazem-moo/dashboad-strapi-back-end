@@ -15,7 +15,8 @@
       "type": "string"
     },
     "description": {
-      "type": "text"
+      "type": "text",
+      "maxLength": 333
     }
   }
 }

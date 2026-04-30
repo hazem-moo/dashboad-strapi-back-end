@@ -25,6 +25,9 @@
     },
     "discount": {
       "type": "decimal"
+    },
+    "total": {
+      "type": "integer"
     }
   }
 }
