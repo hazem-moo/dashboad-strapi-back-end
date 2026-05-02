@@ -28,6 +28,10 @@
     },
     "total": {
       "type": "integer"
+    },
+    "min_count": {
+      "type": "integer",
+      "default": 4
     }
   }
 }
